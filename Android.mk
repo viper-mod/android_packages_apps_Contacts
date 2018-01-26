@@ -44,6 +44,7 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
     android-support-v7-recyclerview \
     android-support-v7-palette \
     libSudaPinYin \
+    libSudaSdk \
     android-support-v4 \
     com.android.vcard \
     guava \
