@@ -24,6 +24,7 @@ LOCAL_STATIC_ANDROID_LIBRARIES := \
     android-support-v4
 
 LOCAL_STATIC_JAVA_LIBRARIES := \
+    libSudaSdk \
     android-common \
     com.android.vcard \
     guava \
